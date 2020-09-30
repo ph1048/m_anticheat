@@ -1,0 +1,1 @@
+int thread_init();

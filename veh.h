@@ -1,0 +1,1 @@
+int veh_init();

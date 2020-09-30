@@ -1,0 +1,6 @@
+LIBRARY	"clientlib"
+EXPORTS
+   get_id_name_color      @1	NONAME	PRIVATE
+   update_auras_players				@2		NONAME	PRIVATE
+   update_aura				@3		NONAME	PRIVATE
+   parse_packet				@4		NONAME	PRIVATE
